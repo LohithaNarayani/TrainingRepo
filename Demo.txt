@@ -3,3 +3,5 @@ Keyboard
 Mouse
 Hard Disk
 Monitor
+
+Speakers
