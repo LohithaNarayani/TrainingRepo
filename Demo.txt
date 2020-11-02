@@ -1,0 +1,4 @@
+CPU
+Keyboard
+Mouse
+Hard Disk
